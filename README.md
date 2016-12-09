@@ -1,2 +1,2 @@
 # dataDrivenFrameWork
-自动化测试框架｀
+自动化测试框架
